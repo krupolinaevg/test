@@ -1,4 +1,6 @@
-dfsfsxghdchfcyhdsfsc
-dfcsdzvxsv
-vsxvxvx
-vdsvs
+#include<stdio.h>
+
+
+int main(){
+printf("HELP");
+}
